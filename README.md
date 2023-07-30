@@ -5,7 +5,9 @@ Tampermokey Plugins for Minna de Honyaku on DLsite.
 仅适用于音声。
 
 目标是一键上传。
-目前写了一小步。
+目前写了一小步，欢迎交流。
 
 目前的功能：
 （半）自动填充差分音轨。
+
+
