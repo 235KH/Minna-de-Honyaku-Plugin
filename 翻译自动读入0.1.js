@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         翻译自动读入
-// @namespace    https://chat.openai.com/c/a5d08583-0401-468a-9458-508d3fe5f7bf
+// @namespace    https://github.com/235KH/Minna-de-Honyaku-Plugin
 // @version      0.1
 // @description  A script to add a button and print button names and URLs
 // @author       空白Sora
