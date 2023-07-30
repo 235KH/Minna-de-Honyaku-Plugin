@@ -8,6 +8,9 @@ Tampermokey Plugins for Minna de Honyaku on DLsite.
 目前写了一小步，欢迎交流。
 
 目前的功能：
+
 （半）自动填充差分音轨。
+
+使用方法：在需要填充的track界面勾选“自动填入”，然后点击旁边的“翻訳データ読み込み”。
 
 
