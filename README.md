@@ -13,7 +13,7 @@ Tampermokey Plugins for Minna de Honyaku on DLsite.
 
 使用方法：
 
-安装脚本。目前更新到了0.5。
+安装脚本。
 
 首先完成第一个版本，即最上方版本的字幕。所有的自动填充均基于已完成的最上方版本字幕。
 
