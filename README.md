@@ -27,7 +27,7 @@ Tampermokey Plugins for Minna de Honyaku on DLsite.
 
 Track界面自动填充：前页取消“全自动读入”，勾选“自动读入”，然后点击旁边的“翻訳データ読み込み”即可。
 
-<img width="640" alt="d52aa99519b9345463cd10a26d666cb" src="https://github.com/235KH/Minna-de-Honyaku-Plugin/assets/130253989/e3dc6a57-0f51-4625-95de-2a9adf14383c">
+<img width="540" alt="d52aa99519b9345463cd10a26d666cb" src="https://github.com/235KH/Minna-de-Honyaku-Plugin/assets/130253989/e3dc6a57-0f51-4625-95de-2a9adf14383c">
 
 F12打开控制台查看脚本运行信息。
 
