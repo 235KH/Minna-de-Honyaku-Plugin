@@ -18,7 +18,7 @@ Tampermokey Plugins for Minna de Honyaku on DLsite.
 首先完成第一个版本，即最上方版本的字幕。所有的自动填充均基于已完成的最上方版本字幕。
 
 (Beta)全自动填充：点击“一键填充差分”按钮，并勾选“全自动读入”。
-这将会对剩余所有版本进行自动填充，直到完成或出错为止。中断后再次勾选“全自动读入”可以继续。（开发中，谨慎使用）
+这将会对剩余所有版本进行自动填充，直到完成或出错为止。若出现中断，中断后再次勾选“全自动读入”可以继续。（开发中，谨慎使用）
 
 <img width="640" alt="ced9baab211135a4b626f8fa36c1e9b" src="https://github.com/235KH/Minna-de-Honyaku-Plugin/assets/130253989/106b4f90-40a7-46d4-ac46-79f2750edb5f">
 
