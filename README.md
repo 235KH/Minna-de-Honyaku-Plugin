@@ -1,6 +1,8 @@
 # Minna-de-Honyaku-Plugin
 Tampermokey Plugins for Minna de Honyaku on DLsite.
 
+---
+
 基于Tampermokey的DLsite大家一起来翻译小插件。
 仅适用于音声。
 
