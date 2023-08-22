@@ -11,7 +11,7 @@ Tampermokey Plugins for Minna de Honyaku on DLsite.
 
 （半）自动填充差分音轨、导出字幕文件。
 
-使用方法：
+**使用方法：**
 
 安装脚本。复制代码到脚本管理器。
 
