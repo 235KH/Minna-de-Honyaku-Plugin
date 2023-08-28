@@ -33,5 +33,12 @@ Tampermokey Plugins for Minna de Honyaku on DLsite.
 
 - F12打开控制台查看脚本运行信息。
 
+---
+
+**Update**
+
+0.8：增强了音轨名称匹配逻辑。
+
+
 
 
