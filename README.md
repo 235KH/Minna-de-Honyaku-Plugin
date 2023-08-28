@@ -37,7 +37,7 @@ Tampermokey Plugins for Minna de Honyaku on DLsite.
 
 **Update**
 
-0.8：增强了音轨名称匹配逻辑。
+0.8：增强了音轨名称匹配逻辑，针对带括号差分标题进行了优化。
 
 
 
