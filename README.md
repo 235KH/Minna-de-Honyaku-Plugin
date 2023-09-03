@@ -40,5 +40,10 @@ Tampermokey Plugins for Minna de Honyaku on DLsite.
 0.8：增强了音轨名称匹配逻辑，针对带括号差分标题进行了优化。
 
 
+---
 
+已知bug:
 
+字幕条数太多可能会导致E3错误过多。
+
+Edit页面顺序若与Track页面内顺序不匹配可能会导致读入其他差分（默认读入第一版差分）。
